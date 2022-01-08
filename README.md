@@ -14,7 +14,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2594056744
 
 ## Requirements
 
-[OpenResty](https://openresty.org/en/download.html#windows)
+[OpenResty](https://openresty.org/en/download.html#windows)  
 [Win64 OpenSSL v1.1.1m Light](https://slproweb.com/products/Win32OpenSSL.html)
 
 ## OpenResty
@@ -37,19 +37,19 @@ You now need to move your public.key and public.crt files from the OpenSSL folde
 
 We aren't done with authentication yet, now you need to press Win+R and type in `mmc`.
 
-Steps:
-File
-Add/Remove Snap-In...
-Certificates
-Computer account
-Finish
+Steps:  
+File  
+Add/Remove Snap-In...  
+Certificates  
+Computer account  
+Finish  
 
-Navigate to "Trusted Root Certification Authorities"
-Right click "Certificates"
-All Tasks
-Import...
-Browse and select public.crt
-Finish
+Navigate to "Trusted Root Certification Authorities"  
+Right click "Certificates"  
+All Tasks  
+Import...  
+Browse and select public.crt  
+Finish  
 
 ## 7dtd-untethered
 
