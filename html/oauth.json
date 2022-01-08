@@ -1,0 +1,11 @@
+{
+"access_token": "doesnt_matter",
+    "token_type": "bearer",
+    "expires_at": "2022-01-07T23:55:50.977Z",
+    "features": ["AntiCheat", "Lobbies", "Matchmaking", "PlayerReports", "Sanctions", "TitleStorage"],
+    "organization_id": "o-ecy2z55dgxzmvhzqcnxqtu494d6eqh",
+    "product_id": "85fffb61212b491999cd7fc03eb09bf6",
+    "sandbox_id": "8a44365d5ccb43328b4df2f8ca199e43",
+    "deployment_id": "30b9e9e5f58b4f4e82930b3bef76d9e1",
+    "expires_in": 3599
+}
